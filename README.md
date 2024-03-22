@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Basil Al-adra</h1>
 <h3 align="center">A passionate Full-Stack developer from Palestine</h3>
-<img align="right" alt="coding" width="300" height="180" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+<img align="right" alt="coding" width="300" height="180" style="border-radius: 5px;" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=githubbasiladra&label=Profile%20views&color=0e75b6&style=flat" alt="githubbasiladra" /> </p>
 
 <p align="left"> <a href="https://twitter.com/basil11602238" target="blank"><img src="https://img.shields.io/twitter/follow/basil11602238?logo=twitter&style=for-the-badge" alt="basil11602238" /></a> </p>
