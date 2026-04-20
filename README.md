@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js & Laravel**
 
-- 👨‍💻 All of my projects are available at [https://basil-aladra.github.io/Basil-portfolio3/](https://basil-aladra.github.io/Basil-portfolio3/)
+- 👨‍💻 All of my projects are available at [portfolio](https://basilportfolio-kappa.vercel.app/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
