@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=githubbasiladra&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<img align="right" alt="coding" width="300" src="https://art.pixilart.com/sr2712ab0b35ecd.gif">
+
 
 ---
 
